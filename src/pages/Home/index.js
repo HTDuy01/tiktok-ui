@@ -1,5 +1,7 @@
+import React, { useRef } from 'react';
+
 function Home() {
-    return <h2>Home page</h2>;
+    return <div>Home page</div>;
 }
 
 export default Home;
